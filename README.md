@@ -15,7 +15,8 @@ my-nextjs-app/
 │ ├── images/
 │ │ ├── image1.jpg
 │ │ ├── image2.jpg
-│ └── ... ├── app/
+│ └── ...
+├── app/
 │ ├── layout.jsx
 │ ├── page.jsx
 │ ├── blogPosts.json
