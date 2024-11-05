@@ -1,4 +1,4 @@
-# My Blog - Next.js Project
+# Javascript Frameworks - Next.js Blog Project
 
 This is part of the workshop **Introduction in Javascript Frameworks**
 
