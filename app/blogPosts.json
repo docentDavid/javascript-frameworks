@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "description": "This is the first blog post.",
+    "image": "/images/image1.jpg",
+    "link": "/blog/first-post"
+  },
+  {
+    "id": 2,
+    "title": "Second Blog Post",
+    "description": "This is the second blog post.",
+    "image": "/images/image2.jpg",
+    "link": "/blog/second-post"
+  },
+  {
+    "id": 3,
+    "title": "Third Blog Post",
+    "description": "This is the third blog post.",
+    "image": "/images/image3.jpg",
+    "link": "/blog/third-post"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Blog Post",
+    "description": "This is the fourth blog post.",
+    "image": "/images/image4.jpg",
+    "link": "/blog/fourth-post"
+  },
+  {
+    "id": 5,
+    "title": "Fifth Blog Post",
+    "description": "This is the fifth blog post.",
+    "image": "/images/image5.jpg",
+    "link": "/blog/fifth-post"
+  },
+  {
+    "id": 6,
+    "title": "Sixth Blog Post",
+    "description": "This is the sixth blog post.",
+    "image": "/images/image6.jpg",
+    "link": "/blog/sixth-post"
+  },
+  {
+    "id": 7,
+    "title": "Seventh Blog Post",
+    "description": "This is the seventh blog post.",
+    "image": "/images/image7.jpg",
+    "link": "/blog/seventh-post"
+  },
+  {
+    "id": 8,
+    "title": "Eighth Blog Post",
+    "description": "This is the eighth blog post.",
+    "image": "/images/image8.jpg",
+    "link": "/blog/eighth-post"
+  },
+  {
+    "id": 9,
+    "title": "Ninth Blog Post",
+    "description": "This is the ninth blog post.",
+    "image": "/images/image9.jpg",
+    "link": "/blog/ninth-post"
+  },
+  {
+    "id": 10,
+    "title": "Tenth Blog Post",
+    "description": "This is the tenth blog post.",
+    "image": "/images/image10.jpg",
+    "link": "/blog/tenth-post"
+  }
+]
