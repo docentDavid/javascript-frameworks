@@ -1,6 +1,7 @@
 # Javascript Frameworks - Next.js Blog Project
 
 This is part of the workshop **Introduction in Javascript Frameworks**
+(_Project for the first week in semester 3_)
 
 This is a simple blog application built with Next.js, using Tailwind CSS for styling.<br />
 The application demonstrates the use of component-based development and responsive design.
