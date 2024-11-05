@@ -1,6 +1,6 @@
 # My Blog - Next.js Project
 
-This is a simple blog application built with Next.js, using Tailwind CSS for styling. The application demonstrates the use of component-based development and responsive design.
+This is a simple blog application built with Next.js, using Tailwind CSS for styling.\ The application demonstrates the use of component-based development and responsive design.
 
 ## Features
 
