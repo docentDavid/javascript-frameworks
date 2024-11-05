@@ -41,7 +41,7 @@ my-nextjs-app/
 
 On installation, you'll see the following prompts:
 
-```bash
+```console
 What is your project named? my-app
 Would you like to use TypeScript? No / ~~Yes~~
 Would you like to use ESLint? No / ~~Yes~~
