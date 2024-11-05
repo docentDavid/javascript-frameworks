@@ -28,6 +28,7 @@ my-nextjs-app/\
 ├── next.config.js
 └── README.md
 
+```bash
 .
 ├── build # Compiled files (alternatively `dist`)
 ├── docs # Documentation files (alternatively `doc`)
@@ -36,6 +37,7 @@ my-nextjs-app/\
 ├── tools # Tools and utilities
 ├── LICENSE
 └── README.md
+```
 
 ## Setup and Installation
 
