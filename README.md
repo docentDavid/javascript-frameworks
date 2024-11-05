@@ -10,12 +10,13 @@ This is a simple blog application built with Next.js, using Tailwind CSS for sty
 
 ## File Structure
 
-my-nextjs-app/\
-├── public/\
-│ ├── images/\
-│ │ ├── image1.jpg\
-│ │ ├── image2.jpg\
-│ └── ...\
+```bash
+my-nextjs-app/
+├── public/
+│ ├── images/
+│ │ ├── image1.jpg
+│ │ ├── image2.jpg
+│ └── ...
 ├── app/
 │ ├── layout.jsx
 │ ├── page.jsx
@@ -26,16 +27,6 @@ my-nextjs-app/\
 ├── .gitignore
 ├── package.json
 ├── next.config.js
-└── README.md
-
-```bash
-.
-├── build # Compiled files (alternatively `dist`)
-├── docs # Documentation files (alternatively `doc`)
-├── src # Source files (alternatively `lib` or `app`)
-├── test # Automated tests (alternatively `spec` or `tests`)
-├── tools # Tools and utilities
-├── LICENSE
 └── README.md
 ```
 
