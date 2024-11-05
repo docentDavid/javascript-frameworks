@@ -10,7 +10,22 @@ This is a simple blog application built with Next.js, using Tailwind CSS for sty
 
 ## File Structure
 
-my-nextjs-app/ ├── public/ │ ├── images/ │ │ ├── image1.jpg │ │ ├── image2.jpg │ └── ... ├── app/ │ ├── layout.jsx │ ├── page.jsx │ ├── blogPosts.json │ ├── components/ │ │ ├── BlogCard.jsx │ ├── globals.css ├── .gitignore ├── package.json ├── next.config.js └── README.md
+my-nextjs-app/
+├── public/
+│ ├── images/
+│ │ ├── image1.jpg
+│ │ ├── image2.jpg
+│ └── ... ├── app/
+│ ├── layout.jsx
+│ ├── page.jsx
+│ ├── blogPosts.json
+│ ├── components/
+│ │ ├── BlogCard.jsx
+│ ├── globals.css
+├── .gitignore
+├── package.json
+├── next.config.js
+└── README.md
 
 ## Setup and Installation
 
@@ -19,11 +34,11 @@ my-nextjs-app/ ├── public/ │ ├── images/ │ │ ├── image1.
    git clone https://github.com/your-username/my-nextjs-app.git
    cd my-nextjs-app
    ```
-   2. **In stall dependencies**
+2. **In stall dependencies**:
    ```bash
    npm install
    ```
-2. **Run the development server**
+3. **Run the development server**
 
 ```bash
 npm run dev
