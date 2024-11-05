@@ -78,6 +78,14 @@ Open http://localhost:3000 with your browser to see the result.
 
 - Styling Components: All styles are defined using Tailwind CSS classes. You can customize the styles by updating the globals.css file.
 
+## Hosted
+
+This repository is hosted on Vercel. [Next.js Blog Project](https://blog-project-snowy-sigma.vercel.app/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE file](LICENSE.md) for details.
+
+## Resources
+
+- Information about the [Markdown language](https://www.markdownguide.org/basic-syntax/)
