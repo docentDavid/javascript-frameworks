@@ -41,17 +41,18 @@ my-nextjs-app/
    ```
 3. **Run the development server**
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 Open http://localhost:3000 with your browser to see the result.
 
-##Usage
+## Usage
 
 - Adding a New Blog Post: To add a new blog post, update the blogPosts.json file located in the app/ directory. Each blog post should have a unique id, title, description, image, and link.
 
 - Styling Components: All styles are defined using Tailwind CSS classes. You can customize the styles by updating the globals.css file.
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
