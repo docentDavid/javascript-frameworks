@@ -10,12 +10,12 @@ This is a simple blog application built with Next.js, using Tailwind CSS for sty
 
 ## File Structure
 
-my-nextjs-app/
-├── public/
-│ ├── images/
-│ │ ├── image1.jpg
-│ │ ├── image2.jpg
-│ └── ...
+my-nextjs-app/\
+├── public/\
+│ ├── images/\
+│ │ ├── image1.jpg\
+│ │ ├── image2.jpg\
+│ └── ...\
 ├── app/
 │ ├── layout.jsx
 │ ├── page.jsx
