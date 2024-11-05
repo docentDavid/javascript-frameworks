@@ -53,7 +53,7 @@ Would you like to customize the import alias (`@/*` by default)? No / ~~Yes~~
 What import alias would you like configured? @/*
 ```
 
-## Setup and Installation with Clone
+## Or... Setup and Installation with Clone
 
 1. **Clone the repository**:
    ```bash
